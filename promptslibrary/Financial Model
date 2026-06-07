@@ -1,0 +1,21 @@
+Prompt Title: Comprehensive Financial Model for a Startup
+Objective:   Create a dynamic financial model for a technology startup that projects revenue, expenses, cash flow, and profitability over a 5-year horizon.
+Scope & Assumptions:
+Revenue streams: subscription fees, one-time product sales, and advertising.
+Growth assumptions: subscription base grows at 20% annually, product sales increase at 10% annually, advertising grows at 15% annually.
+Cost structure: fixed costs (rent, salaries, utilities), variable costs (marketing, customer acquisition, server hosting).
+Financing: initial seed funding of $500,000, potential Series A in Year 2.
+Tax rate: 25%.
+Inflation: 3% annually.
+Outputs Required:
+Income statement, balance sheet, and cash flow statement.
+Break-even analysis.
+Scenario analysis (best case, base case, worst case).
+Key ratios: gross margin, net margin, return on equity, current ratio.
+Charts: revenue growth, expense breakdown, cash runway.
+Format:
+Spreadsheet-style model with linked formulas.
+Clear separation of inputs, calculations, and outputs.
+Sensitivity analysis using adjustable variables.
+ 
+ 
